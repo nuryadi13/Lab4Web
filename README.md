@@ -118,31 +118,32 @@ Lalu lihat hasilnya
 => yang berisi form isian: nama, email, message, dll
 
 ## Jawab
-## 1. Buat html seperti berikut
+## 1. Buat kodingan html seperti berikut
 
-![imgpraktikum1!](assets/img/praktikum/1.png)
-
-Kemudian tambahkan CSS.
-
-![imgpraktikum1!](assets/img/praktikum/1-1.png)
-
-Lalu lihat hasilnya
-
-![imgpraktikum1!](assets/img/praktikum/1-2.png)
-
-## 2. Buat html seperti berikut
-
-![imgpraktikum2!](assets/img/praktikum/2.png)
+![imgpraktikum1!](assets/praktikum4/aboutme.png)
 
 Kemudian tambahkan CSS.
 
-![imgpraktikum2!](assets/img/praktikum/2-1.png)
-
-![imgpraktikum2!](assets/img/praktikum/2-2.png)
+![imgpraktikum1!](assets/praktikum4/aboutcss.png)
 
 Lalu lihat hasilnya
 
-![imgpraktikum2!](assets/img/praktikum/2-3.png)
+![imgpraktikum1!](assets/praktikum4/me.png)
+
+## 2. Buat kodingan html seperti berikut
+
+![imgpraktikum2!](assets/praktikum4/kontak.png)
+
+Kemudian tambahkan CSS.
+![imgpraktikum2!](assets/praktikum4/css1.png)
+
+![imgpraktikum2!](assets/praktikum4/css2.png)
+
+![imgpraktikum2!](assets/praktikum4/css3.png)
+
+Lalu lihat hasilnya
+
+![imgpraktikum2!](assets/praktikum4/hasil.png)
 
 
 
